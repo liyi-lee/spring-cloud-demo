@@ -16,7 +16,7 @@ spring:
     druid:
       username: root
       password: mysql
-      url: jdbc:mysql://127.0.0.1:3306/clouddb01?serverTimezone=GMT%2B8
+      url: jdbc:mysql://127.0.0.1:3306/clouddb03?serverTimezone=GMT%2B8
       driverClassName: com.mysql.cj.jdbc.Driver
 
 mybatis:
